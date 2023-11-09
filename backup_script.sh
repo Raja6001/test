@@ -14,7 +14,7 @@
 #export PATH="/bin:/usr/local/mysql8.0/bin:$PATH"
 
 # directory to put the backup files
-BACKUP_DIR=/root/mysql_backup
+BACKUP_DIR=/tmp/mysql_backup
 
 # MYSQL Parameters
 #MYSQL_UNAME='dba'
